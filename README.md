@@ -13,3 +13,7 @@ copia ed esegui
 Licenza
 -------
 Licenza GPL3 ....
+
+
+Aggiunta per testare pullrequest
+
