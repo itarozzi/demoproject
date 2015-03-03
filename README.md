@@ -8,3 +8,8 @@ Proviamo le funzionalita' di git
 Installazione
 -------------
 copia ed esegui
+
+
+Licenza
+-------
+Licenza GPL3 ....
